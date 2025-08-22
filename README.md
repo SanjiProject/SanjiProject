@@ -79,7 +79,7 @@
 
 ## 🎵 Currently Vibing To
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=70a5fd)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=70a5fd)](https://open.spotify.com/playlist/5ZqPlDr2SAuHyMWm7KBvpN?si=f2330febe3da414a)
 
 ---
 
