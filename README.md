@@ -1,42 +1,10 @@
 <div align="center">
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Kenneth Aaron
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 🚀 About Me
-
-```javascript
-const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "Python", "TypeScript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask", "FastAPI"],
-            misc: ["Bash", "Docker", "Kubernetes"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        cloudServices: ["AWS", "Azure", "Firebase", "Netlify"],
-        tools: ["Git", "Docker", "Postman", "Linux"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -79,11 +47,11 @@ const developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennethaaron&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kennethaaron&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethaaron&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -93,7 +61,7 @@ const developer = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kennethaaron&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
@@ -101,44 +69,17 @@ const developer = {
 
 ## 📈 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kennethaaron&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- 🔭 I'm currently working on **SEO-optimized web apps and gaming platforms**
+- 🌱 I'm currently learning **Next.js, AI-powered automation, and advanced SEO**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤔 I'm looking for help with **[Areas where you want help]**
-- 💬 Ask me about **Web Development, JavaScript, Python**
-- ⚡ Fun fact: **[Your fun fact]**
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Create Amazing GitHub Profile READMEs](https://your-blog-url.com)
-- [Building Scalable Web Applications with Node.js](https://your-blog-url.com)
-- [JavaScript Tips and Tricks for Developers](https://your-blog-url.com)
-<!-- BLOG-POST-LIST:END -->
+- 💬 Ask me about **Web Development, SEO, Server Security**
+- ⚡ Fun fact: **I love astronomy and exploring the universe through my telescope**
 
 ---
 
@@ -154,7 +95,7 @@ const developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kennethaaron.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
 
@@ -177,59 +118,7 @@ const developer = {
 ## 💻 Workspace Setup
 
 ```yaml
-OS: Windows 11 / macOS Big Sur / Ubuntu 20.04
+OS: Windows 11 / Ubuntu Server / macOS
 Editor: VS Code
-Terminal: Windows Terminal / iTerm2 / GNOME Terminal
+Terminal: Windows Terminal / iTerm2
 Browser: Chrome Dev / Firefox Developer Edition
-```
-
----
-
-## 📊 Weekly Development Breakdown
-
-```text
-TypeScript   8 hrs 15 mins   ████████████████████▓   82.50 %
-JavaScript   1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░   13.40 %
-JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░   04.10 %
-```
-
----
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-## 🎨 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🕐 WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
----
-
-<div align="center">
-
-**Happy Coding!** 😊
-
-</div>
