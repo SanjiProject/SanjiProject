@@ -53,15 +53,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kennethaaron&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
