@@ -67,12 +67,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kennethaaron&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)
-
----
-
 ## 🎯 Current Focus
 
 - 🔭 I'm currently working on **SEO-optimized web apps and gaming platforms**
