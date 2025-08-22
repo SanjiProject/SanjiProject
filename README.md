@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there! 👋 I'm Kenneth Aaron
+# Hi there! 👋 I'm Sanji
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=SEO+Specialist;Web+Developer;Server+Security+Engineer;Open+Source+Contributor;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -103,22 +103,4 @@
 
 ---
 
-## 💰 Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YOUR_PAYPAL)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YOUR_PATREON)
-
-</div>
-
 ---
-
-## 💻 Workspace Setup
-
-```yaml
-OS: Windows 11 / Ubuntu Server / macOS
-Editor: VS Code
-Terminal: Windows Terminal / iTerm2
-Browser: Chrome Dev / Firefox Developer Edition
